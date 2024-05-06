@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Pharmacy\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7368079E-987B-44CE-9315-C88B51687487}|PharmacyStore.DataAccess\\PharmacyStore.DataAccess.csproj|c:\\projects\\pharmacy\\backend\\pharmacystore.dataaccess\\pharmacydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7368079E-987B-44CE-9315-C88B51687487}|PharmacyStore.DataAccess\\PharmacyStore.DataAccess.csproj|solutionrelative:pharmacystore.dataaccess\\pharmacydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7368079E-987B-44CE-9315-C88B51687487}|PharmacyStore.DataAccess\\PharmacyStore.DataAccess.csproj|C:\\Projects\\Pharmacy\\backend\\pharmacystore.dataaccess\\repositories\\workersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7368079E-987B-44CE-9315-C88B51687487}|PharmacyStore.DataAccess\\PharmacyStore.DataAccess.csproj|solutionrelative:pharmacystore.dataaccess\\repositories\\workersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7368079E-987B-44CE-9315-C88B51687487}|PharmacyStore.DataAccess\\PharmacyStore.DataAccess.csproj|C:\\Projects\\Pharmacy\\backend\\pharmacystore.dataaccess\\entities\\worker_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7368079E-987B-44CE-9315-C88B51687487}|PharmacyStore.DataAccess\\PharmacyStore.DataAccess.csproj|solutionrelative:pharmacystore.dataaccess\\entities\\worker_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7368079E-987B-44CE-9315-C88B51687487}|PharmacyStore.DataAccess\\PharmacyStore.DataAccess.csproj|C:\\Projects\\Pharmacy\\backend\\pharmacystore.dataaccess\\entities\\medicine_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7368079E-987B-44CE-9315-C88B51687487}|PharmacyStore.DataAccess\\PharmacyStore.DataAccess.csproj|solutionrelative:pharmacystore.dataaccess\\entities\\medicine_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7368079E-987B-44CE-9315-C88B51687487}|PharmacyStore.DataAccess\\PharmacyStore.DataAccess.csproj|C:\\Projects\\Pharmacy\\backend\\pharmacystore.dataaccess\\entities\\customer_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7368079E-987B-44CE-9315-C88B51687487}|PharmacyStore.DataAccess\\PharmacyStore.DataAccess.csproj|solutionrelative:pharmacystore.dataaccess\\entities\\customer_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139BF1CD-DD55-418F-96A9-DD5FF61AC714}|Pharmacy\\Pharmacy.csproj|C:\\Projects\\Pharmacy\\backend\\pharmacy\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139BF1CD-DD55-418F-96A9-DD5FF61AC714}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139BF1CD-DD55-418F-96A9-DD5FF61AC714}|Pharmacy\\Pharmacy.csproj|C:\\Projects\\Pharmacy\\backend\\pharmacy\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139BF1CD-DD55-418F-96A9-DD5FF61AC714}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139BF1CD-DD55-418F-96A9-DD5FF61AC714}|Pharmacy\\Pharmacy.csproj|C:\\Projects\\Pharmacy\\backend\\pharmacy\\contracts\\customersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139BF1CD-DD55-418F-96A9-DD5FF61AC714}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\contracts\\customersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139BF1CD-DD55-418F-96A9-DD5FF61AC714}|Pharmacy\\Pharmacy.csproj|C:\\Projects\\Pharmacy\\backend\\pharmacy\\contracts\\customersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139BF1CD-DD55-418F-96A9-DD5FF61AC714}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\contracts\\customersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8483391-6E71-423C-B3B1-C80F3A7A614A}|PharmacyStore.Core\\PharmacyStore.Core.csproj|C:\\Projects\\Pharmacy\\backend\\pharmacystore.core\\abstractions\\icustomersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8483391-6E71-423C-B3B1-C80F3A7A614A}|PharmacyStore.Core\\PharmacyStore.Core.csproj|solutionrelative:pharmacystore.core\\abstractions\\icustomersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8483391-6E71-423C-B3B1-C80F3A7A614A}|PharmacyStore.Core\\PharmacyStore.Core.csproj|C:\\Projects\\Pharmacy\\backend\\pharmacystore.core\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8483391-6E71-423C-B3B1-C80F3A7A614A}|PharmacyStore.Core\\PharmacyStore.Core.csproj|solutionrelative:pharmacystore.core\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7368079E-987B-44CE-9315-C88B51687487}|PharmacyStore.DataAccess\\PharmacyStore.DataAccess.csproj|C:\\Projects\\Pharmacy\\backend\\pharmacystore.dataaccess\\repositories\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7368079E-987B-44CE-9315-C88B51687487}|PharmacyStore.DataAccess\\PharmacyStore.DataAccess.csproj|solutionrelative:pharmacystore.dataaccess\\repositories\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7368079E-987B-44CE-9315-C88B51687487}|PharmacyStore.DataAccess\\PharmacyStore.DataAccess.csproj|C:\\Projects\\Pharmacy\\backend\\pharmacystore.dataaccess\\repositories\\medicinesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7368079E-987B-44CE-9315-C88B51687487}|PharmacyStore.DataAccess\\PharmacyStore.DataAccess.csproj|solutionrelative:pharmacystore.dataaccess\\repositories\\medicinesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139BF1CD-DD55-418F-96A9-DD5FF61AC714}|Pharmacy\\Pharmacy.csproj|C:\\Projects\\Pharmacy\\backend\\pharmacy\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139BF1CD-DD55-418F-96A9-DD5FF61AC714}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkersRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.DataAccess\\Repositories\\WorkersRepository.cs",
+              "RelativeDocumentMoniker": "PharmacyStore.DataAccess\\Repositories\\WorkersRepository.cs",
+              "ToolTip": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.DataAccess\\Repositories\\WorkersRepository.cs",
+              "RelativeToolTip": "PharmacyStore.DataAccess\\Repositories\\WorkersRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:41:19.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomersRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\Pharmacy\\backend\\Pharmacy\\Contracts\\CustomersRequest.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Contracts\\CustomersRequest.cs",
+              "ToolTip": "C:\\Projects\\Pharmacy\\backend\\Pharmacy\\Contracts\\CustomersRequest.cs",
+              "RelativeToolTip": "Pharmacy\\Contracts\\CustomersRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:37:32.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomersResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\Pharmacy\\backend\\Pharmacy\\Contracts\\CustomersResponse.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Contracts\\CustomersResponse.cs",
+              "ToolTip": "C:\\Projects\\Pharmacy\\backend\\Pharmacy\\Contracts\\CustomersResponse.cs",
+              "RelativeToolTip": "Pharmacy\\Contracts\\CustomersResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:37:31.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicinesController.cs",
+              "DocumentMoniker": "C:\\Projects\\Pharmacy\\backend\\Pharmacy\\Controllers\\MedicinesController.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Controllers\\MedicinesController.cs",
+              "ToolTip": "C:\\Projects\\Pharmacy\\backend\\Pharmacy\\Controllers\\MedicinesController.cs",
+              "RelativeToolTip": "Pharmacy\\Controllers\\MedicinesController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:21:16.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Projects\\Pharmacy\\backend\\Pharmacy\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Projects\\Pharmacy\\backend\\Pharmacy\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Pharmacy\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:15:29.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer_Entity.cs",
+              "DocumentMoniker": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.DataAccess\\Entities\\Customer_Entity.cs",
+              "RelativeDocumentMoniker": "PharmacyStore.DataAccess\\Entities\\Customer_Entity.cs",
+              "ToolTip": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.DataAccess\\Entities\\Customer_Entity.cs",
+              "RelativeToolTip": "PharmacyStore.DataAccess\\Entities\\Customer_Entity.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:33:22.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medicine_Entity.cs",
+              "DocumentMoniker": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.DataAccess\\Entities\\Medicine_Entity.cs",
+              "RelativeDocumentMoniker": "PharmacyStore.DataAccess\\Entities\\Medicine_Entity.cs",
+              "ToolTip": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.DataAccess\\Entities\\Medicine_Entity.cs",
+              "RelativeToolTip": "PharmacyStore.DataAccess\\Entities\\Medicine_Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:34:29.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worker_Entity.cs",
+              "DocumentMoniker": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.DataAccess\\Entities\\Worker_Entity.cs",
+              "RelativeDocumentMoniker": "PharmacyStore.DataAccess\\Entities\\Worker_Entity.cs",
+              "ToolTip": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.DataAccess\\Entities\\Worker_Entity.cs",
+              "RelativeToolTip": "PharmacyStore.DataAccess\\Entities\\Worker_Entity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:34:19.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PharmacyDBContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.DataAccess\\PharmacyDBContext.cs",
+              "RelativeDocumentMoniker": "PharmacyStore.DataAccess\\PharmacyDBContext.cs",
+              "ToolTip": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.DataAccess\\PharmacyDBContext.cs",
+              "RelativeToolTip": "PharmacyStore.DataAccess\\PharmacyDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:34:36.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICustomersService.cs",
+              "DocumentMoniker": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.Core\\Abstractions\\ICustomersService.cs",
+              "RelativeDocumentMoniker": "PharmacyStore.Core\\Abstractions\\ICustomersService.cs",
+              "ToolTip": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.Core\\Abstractions\\ICustomersService.cs",
+              "RelativeToolTip": "PharmacyStore.Core\\Abstractions\\ICustomersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:37:23.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.Core\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "PharmacyStore.Core\\Models\\Customer.cs",
+              "ToolTip": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.Core\\Models\\Customer.cs",
+              "RelativeToolTip": "PharmacyStore.Core\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:37:22.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomersRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.DataAccess\\Repositories\\CustomersRepository.cs",
+              "RelativeDocumentMoniker": "PharmacyStore.DataAccess\\Repositories\\CustomersRepository.cs",
+              "ToolTip": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.DataAccess\\Repositories\\CustomersRepository.cs",
+              "RelativeToolTip": "PharmacyStore.DataAccess\\Repositories\\CustomersRepository.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAiwEIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:36:55.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MedicinesRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.DataAccess\\Repositories\\MedicinesRepository.cs",
+              "RelativeDocumentMoniker": "PharmacyStore.DataAccess\\Repositories\\MedicinesRepository.cs",
+              "ToolTip": "C:\\Projects\\Pharmacy\\backend\\PharmacyStore.DataAccess\\Repositories\\MedicinesRepository.cs",
+              "RelativeToolTip": "PharmacyStore.DataAccess\\Repositories\\MedicinesRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:36:43.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WorkersController.cs",
+              "DocumentMoniker": "C:\\Projects\\Pharmacy\\backend\\Pharmacy\\Controllers\\WorkersController.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Controllers\\WorkersController.cs",
+              "ToolTip": "C:\\Projects\\Pharmacy\\backend\\Pharmacy\\Controllers\\WorkersController.cs",
+              "RelativeToolTip": "Pharmacy\\Controllers\\WorkersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:15:40.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
