@@ -3,14 +3,9 @@ using PharmacyStore.DataAccess.Repositories;
 
 namespace Pharmacy.Application.Services
 {
-    public class CustomersService : ICustomersService
+    public class CustomersService(ICustomerRepository customersRepository) : ICustomersService
     {
-        private readonly ICustomerRepository _customersRepository;
-
-        public CustomersService(ICustomerRepository customersRepository)
-        {
-            _customersRepository = customersRepository;
-        }
+        private readonly ICustomerRepository _customersRepository = customersRepository;
 
         public async Task<Guid> CreateCustomer(Customer customer)
         {

@@ -3,14 +3,9 @@ using PharmacyStore.DataAccess.Repositories;
 
 namespace Pharmacy.Application.Services
 {
-    public class WorkersService : IWorkersService
+    public class WorkersService(IWorkerRepository workersRepository) : IWorkersService
     {
-        private readonly IWorkerRepository _workersRepository;
-
-        public WorkersService(IWorkerRepository workersRepository)
-        {
-            _workersRepository = workersRepository;
-        }
+        private readonly IWorkerRepository _workersRepository = workersRepository;
 
         public async Task<Guid> CreateWorker(Worker work)
         {

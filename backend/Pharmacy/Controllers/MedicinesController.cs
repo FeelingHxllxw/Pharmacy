@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Pharmacy.Application.Services;
 using Pharmacy.Contracts;
 using PharmacyStore.Core.Models;
@@ -7,6 +8,7 @@ namespace Pharmacy.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [Authorize]
     public class MedicinesController :ControllerBase
     {
         private readonly IMedicinesService _medicinesService;
@@ -53,6 +55,8 @@ namespace Pharmacy.Controllers
         [HttpPut("{id:guid}")]
         public async Task<ActionResult<Guid>> UpdateMedicine(Guid id, [FromBody] MedicinesRequest request)
         {
+
+
             var medId = await _medicinesService.UpdateMedicine(id, request.name, request.type, request.category, request.price);
 
             return Ok(medId);

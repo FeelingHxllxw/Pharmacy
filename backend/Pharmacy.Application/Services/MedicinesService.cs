@@ -3,14 +3,9 @@ using PharmacyStore.DataAccess.Repositories;
 
 namespace Pharmacy.Application.Services
 {
-    public class MedicinesService : IMedicinesService
+    public class MedicinesService(IMedicineRepository medicinesRepository) : IMedicinesService
     {
-        private readonly IMedicineRepository _medicinesRepository;
-
-        public MedicinesService(IMedicineRepository medicinesRepository)
-        {
-            _medicinesRepository = medicinesRepository;
-        }
+        private readonly IMedicineRepository _medicinesRepository = medicinesRepository;
 
         public async Task<List<Medicine>> GetAllMedicines()
         {

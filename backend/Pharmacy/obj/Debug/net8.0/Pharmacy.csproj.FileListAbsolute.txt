@@ -218,3 +218,12 @@ C:\Projects\Pharmacy\backend\Pharmacy\obj\Debug\net8.0\refint\Pharmacy.dll
 C:\Projects\Pharmacy\backend\Pharmacy\obj\Debug\net8.0\Pharmacy.pdb
 C:\Projects\Pharmacy\backend\Pharmacy\obj\Debug\net8.0\Pharmacy.genruntimeconfig.cache
 C:\Projects\Pharmacy\backend\Pharmacy\obj\Debug\net8.0\ref\Pharmacy.dll
+C:\Projects\Pharmacy\backend\Pharmacy\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Projects\Pharmacy\backend\Pharmacy\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\Pharmacy\backend\Pharmacy\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\Pharmacy\backend\Pharmacy\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\Pharmacy\backend\Pharmacy\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Pharmacy\backend\Pharmacy\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Pharmacy\backend\Pharmacy\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Pharmacy\backend\Pharmacy\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Pharmacy\backend\Pharmacy\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
